@@ -5,7 +5,7 @@
 
 
 # Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevsExpo/ChatBot/blob/main)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush81Hacker/ChatBot/blob/main)
 
 # Normal Way
 ```python3
@@ -28,4 +28,4 @@ published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
 
 # Credits
- • @Spechide For his [SQL Plugin](https://github.com/DevsExpo/ChatBot/blob/main/chatrobot/plugins/sql/users_sql.py) 
+ • @Spechide For his [SQL Plugin](https://github.com/Ayush81hacker/ChatBot/blob/main/chatrobot/plugins/sql/users_sql.py) 
