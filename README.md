@@ -9,7 +9,7 @@
 
 # Normal Way
 ```python3
-git clone https://github.com/StarkGang/ChatBot
+git clone https://github.com/Ayush81Hacker/ChatBot
 cd ChatBot
 pip install -r requirements.txt
 # Make A file Named local_config and put all your values There and Then Run the bot.
